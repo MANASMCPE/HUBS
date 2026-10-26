@@ -1350,17 +1350,17 @@ MainTab:Button({
 })
 
 MainTab:Button({
-  Title = "Shaders",
-  Desc = "Execute Shaders",
+  Title = "OUTFIT COPIER",
+  Desc = "Execute Stealer",
   Callback = function()
     windui:Notify({
       Title = "Success",
-      Content = "Shaders Executed!",
+      Content = "Stealer Executed!",
       Icon = "shield-check",
       Duration = 5,
     })
 
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Uranus197/-Univers-Hub-Graphics-Script-/refs/heads/main/UniversHub"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/MANASMCPE/FiTcopierDeobfByMonK/refs/heads/main/deobfuscated_by_MONK.lua"))()
   end,
 })
 
@@ -1380,17 +1380,17 @@ MainTab:Button({
 })
 
 MainTab:Button({
-  Title = "Silly Emotes",
-  Desc = "Execute Silly Emotes",
+  Title = "Traps",
+  Desc = "Execute Fe traps",
   Callback = function()
     windui:Notify({
       Title = "Success",
-      Content = "Silly Emotes Executed!",
+      Content = "Traps Executed!",
       Icon = "shield-check",
       Duration = 5,
     })
 
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Gazer-Ha/Gaze-stuff/refs/heads/main/Silly%20emote"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/MANASMCPE/LIFETOGETHERRPSCRIPTOPENSLURCE-/refs/heads/main/trap.lua"))()
   end,
 })
 
