@@ -47,7 +47,7 @@ window:SelectTab(1)
 infoTab:Section({ Title = "Info", Icon = "info", Opened = true })
 
 infoTab:Image({
-  Image = "https://raw.githubusercontent.com/MANASMCPE/Mikey-X-MonK-Hub/main/MonKXmikey.png",
+  Image = "https://raw.githubusercontent.com/MANASMCPE/HUBS/main/KOFHUB/ChatGPT%20Image%20Oct%2026%2C%202026%2C%2002_52_48%20PM.png?utm_source=chatgpt.com",
   AspectRatio = "16:9",
   Radius = 9,
 })
